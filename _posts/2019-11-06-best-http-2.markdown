@@ -1,0 +1,86 @@
+---
+layout: post
+title: Best HTTP/2 (2013 - present)
+description: Best HTTP, but now with HTTP/2
+img: posts/besthttp/IconImageB_160x160.jpg
+---
+
+HTTP protocols written from scratch! HTTP, HTTP/2, Websocket, SocketIO, SignalR Core, Server-Sent Events, connection and memory pooling, local content cache, and many more great features. 7 years of development, polishing in [one package](http://u3d.as/1E3h).
+
+## Features
+
+- <a href="https://besthttp-documentation.readthedocs.io/en/latest/#7.GlobalTopics/HTTP2/">HTTP/2</a><br>
+- <a href="https://besthttp-documentation.readthedocs.io/en/latest/#1.HTTPRequest/GettingStarted/">Customize all parts of your requests</a>:<br>
+   ◦ Methods(GET, HEAD, POST, PUT, DELETE, PATCH)<br>
+   ◦ Headers<br>
+   ◦ Cookies<br>
+   ◦ Max redirect count<br>
+   ◦ Timeouts<br>
+- Access every bits sent by the server:<br>
+  ◦ Headers<br>
+  ◦ Status code<br>
+  ◦ Cookies<br>
+  ◦ Raw content<br>
+  ◦ Trailing headers<br>
+- <strong>Connection</strong> and <strong>memory</strong> pooling<br>
+- Connection and request <strong>timeouts</strong><br>
+- Automatic <strong>Cookie</strong> handling<br>
+- Great range of <strong>Proxy</strong> support (Fiddler, Charles, etc.)<br>
+- HTTP and Socks Proxy support<br>
+- Automatic <strong>caching</strong> and cache validatation<br>
+- Set your cache size and freshness<br>
+- <strong>gzip</strong> content encoding<br>
+- Basic and Digest authentication<br>
+- Multiple form types (<strong>url-encoded</strong> and <strong>multipart/form-data</strong>)<br>
+- Automatic <strong>redirection</strong> handling<br>
+- <strong>Upload and Download progress tracking</strong><br>
+- Access your data while downloading<br>
+- You can <strong>resume</strong> downloads using Range headers<br>
+- <strong>HTTPS</strong><br>
+- Customize a great range of <a href="https://besthttp-documentation.readthedocs.io/en/latest/#7.GlobalTopics/GlobalSettings/">global settings</a>:<br>
+  ◦ Max connection per server<br>
+  ◦ Enable/disable cookies<br>
+  ◦ Private 'Browsing'<br>
+  ◦ Cookie Jar size<br>
+  ◦ etc<br>
+
+<a href="https://besthttp-documentation.readthedocs.io/en/latest/#2.WebSocket/">WebSocket</a> features:<br>
+- Full RFC compliance<br>
+- Easy to use, 'just works' experience<br>
+- Support for extensions:<br>
+  ◦ Compression Extensions for WebSocket (RFC7692)<br>
+
+<a href="https://besthttp-documentation.readthedocs.io/en/latest/#3.Socket.IO/">Socket.IO</a> features:<br>
+- Compliance with the latest (1.x and 2.x) Socket.IO implementations<br>
+- Automatic <strong>transport upgrade</strong> and downgrade<br>
+- <strong>Binary data</strong> sending and receiving<br>
+- You can plug in your favorite Json decoder<br>
+
+<a href="https://besthttp-documentation.readthedocs.io/en/latest/#6.SignalRCore/">SignalR Core</a> features:<br>
+- Supports latest SignalR Core<br>
+- Support for <a href="https://besthttp-documentation.readthedocs.io/en/latest/#6.SignalRCore/3.Encoders/#messagepack">MessagePack encoding</a><br>
+- Strongly typed callbacks<br>
+- Uses the fastest Websocket transport with fallback option to long-polling<br>
+- Package includes a Header-based authenticator<br>
+- Upload and download streaming<br>
+
+<a href="https://besthttp-documentation.readthedocs.io/en/latest/#4.SignalR/">SignalR</a> features:<br>
+- Works with the latest <a href="http://www.asp.net/signalr">SignalR</a> implementation<br>
+- Easy to use API<br>
+- Hubs<br>
+- Support for authentication<br>
+- Progress messages for long running jobs<br>
+- Automatic <strong>transport upgrade</strong>/downgrade<br>
+- You can plug in your favorite Json decoder<br>
+
+<a href="https://besthttp-documentation.readthedocs.io/en/latest/#5.EventSource/">Server-Sent Events</a> features:<br>
+- Compatible with the <a href="http://www.w3.org/TR/eventsource/">latest specification</a><br>
+- Easy to use API<br>
+
+## Links
+
+- [Asset Store Page](http://u3d.as/1E3h)
+- [Live Demo](https://besthttpdemosite.azurewebsites.net/)
+- [Online Documentation](https://besthttp-documentation.readthedocs.io/en/latest/)
+- [Samples Repository](https://github.com/Benedicht/BestHTTP_Examples)
+- [Server Repository](https://github.com/Benedicht/BestHTTP_DemoSite)
