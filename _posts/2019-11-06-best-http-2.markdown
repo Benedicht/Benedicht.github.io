@@ -5,7 +5,7 @@ description: Best HTTP, but now with HTTP/2
 img: posts/besthttp/IconImageB_160x160.jpg
 ---
 
-HTTP protocols written from scratch! HTTP, HTTP/2, Websocket, SocketIO, SignalR Core, Server-Sent Events, connection and memory pooling, local content cache, and many more great features. 7 years of development, polishing in [one package](http://u3d.as/1E3h).
+HTTP protocols written from scratch! HTTP, HTTP/2, Websocket, SocketIO, SignalR Core, Server-Sent Events, connection and memory pooling, local content cache, and many more great features. 7 years of development, polishing in [one package](https://assetstore.unity.com/packages/tools/network/best-http-2-155981?aid=1101lfX8E).
 
 ## Features
 
@@ -79,7 +79,7 @@ HTTP protocols written from scratch! HTTP, HTTP/2, Websocket, SocketIO, SignalR 
 
 ## Links
 
-- [Asset Store Page](http://u3d.as/1E3h)
+- [Asset Store Page](https://assetstore.unity.com/packages/tools/network/best-http-2-155981?aid=1101lfX8E)
 - [Live Demo](https://besthttpdemosite.azurewebsites.net/)
 - [Online Documentation](https://besthttp-documentation.readthedocs.io/en/latest/)
 - [Samples Repository](https://github.com/Benedicht/BestHTTP_Examples)
