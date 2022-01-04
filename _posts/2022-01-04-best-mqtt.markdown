@@ -2,7 +2,7 @@
 layout: post
 title: Best MQTT (2022 - present)
 description: Best MQTT is an MQTT v5 protocol implementation that works on all major platforms, including WebGL.
-img: posts/bestmqtt/IconImage_160x160.jpg
+img: posts/bestmqtt/IconImage_160x160.png
 ---
 
 # About
