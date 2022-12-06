@@ -10,11 +10,12 @@ site-twitter: https://twitter.com/Best_HTTP #if your site has a twitter account,
 author: Tivadar György Nagy # add your name
 author-img: site/profile.jpg # add your photo
 about-author: With more than 14 years of professional experience under my belt that i spent about 10 years working with Unity3D, i'm capable to design and implement complex solutions, find and fix performance issues and bugs. My greatest work that i'm proud the most is the Best HTTP/2 plugin for Unity3D, where i implemented various network protocols from scratch (HTTP 1 and 2, WebSocket, SignalR and SignalR Core, SocketIO).
-social-twitter: Best_HTTP # add your Twitter handle
+#social-twitter: Best_HTTP # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: Benedicht # add your Github handle
 social-linkedin: tivadargyorgy # add your Linkedin handle
 social-email: besthttp@gmail.com # add your Email address
+social-mastodon: https://mastodon.gamedev.place/@tivadar
 
 # Build Settings
 markdown: kramdown
